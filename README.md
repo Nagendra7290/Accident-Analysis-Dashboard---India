@@ -5,6 +5,8 @@ This project presents an advanced-level Accident Analysis Dashboard built using 
 
 The objective is to support data-driven decision-making for improving road safety and reducing accident rates.
 
+![Dashboard](https://github.com/Nagendra7290/Accident-Analysis-Dashboard---India/blob/main/Screenshot%202026-04-04%20014947.png)
+
 ---
 
 ## Objectives
