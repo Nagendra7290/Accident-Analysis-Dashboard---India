@@ -162,12 +162,8 @@ Metro cities dominate accident statistics due to traffic density.
 The dashboard highlights that human behavior and urban congestion are the primary drivers of accidents in India. Strategic interventions such as speed control, better traffic management, and improved visibility conditions can significantly reduce accident rates.
 
 ---
-
-## Future Enhancements
-- Integration of real-time traffic data
-- Predictive modeling using machine learning
-- District-level accident analysis
-- Weather-based accident prediction system
-- Automated alert system for high-risk zones
+Author 
+Nagendra Arya
+Control Tower Executive
 
 ---
