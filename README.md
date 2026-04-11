@@ -163,8 +163,7 @@ The dashboard highlights that human behavior and urban congestion are the primar
 
 ---
 
-### Author 
-### Nagendra Arya
-### Control Tower Executive
+### Author
 
----
+Nagendra Arya  
+Control Tower Executive | Supply Chain & Data Analytics
