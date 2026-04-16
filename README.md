@@ -20,7 +20,7 @@ The objective is to support data-driven decision-making for improving road safet
 ---
 
 ## Key Metrics
-- Total Accidents: 200 Million
+- Total Accidents: 20 Thousand
 - Total Casualties: 35 Thousand
 
 ---
